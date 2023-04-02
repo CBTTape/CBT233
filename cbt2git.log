@@ -1,0 +1,6 @@
+2023-04-02 22:50:24.627136 - Initialized conversion of CBT233
+2023-04-02 22:50:24.659750 - Received CBT.V504.FILE233.PDS from FILE233.XMI 
+2023-04-02 22:50:24.662321 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE233.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:50:24.663408 - Found $$$DOC.txt (text/plain) in CBT.V504.FILE233.PDS, moved to PDS/$$$DOC
+2023-04-02 22:50:24.664633 - Found @FILE233.txt (text/plain) in CBT.V504.FILE233.PDS, moved to PDS/@FILE233
+2023-04-02 22:50:24.665708 - Found GBHABEND.txt (text/plain) in CBT.V504.FILE233.PDS, moved to PDS/GBHABEND
