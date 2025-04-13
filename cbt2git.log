@@ -1,5 +1,5 @@
-2025-04-13 14:57:26.709944 - Received CBT.V508.FILE233.PDS from FILE233.XMI 
-2025-04-13 14:57:26.710613 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE233.PDS, moved to PDS/$$$#DATE
-2025-04-13 14:57:26.710688 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE233.PDS, moved to PDS/$$$DOC
-2025-04-13 14:57:26.710767 - Found @FILE233.txt (text/plain) in CBT.V508.FILE233.PDS, moved to PDS/@FILE233
-2025-04-13 14:57:26.710843 - Found GBHABEND.txt (text/plain) in CBT.V508.FILE233.PDS, moved to PDS/GBHABEND
+2025-04-13 17:44:01.601331 - Received CBT.V508.FILE233.PDS from FILE233.XMI 
+2025-04-13 17:44:01.601888 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE233.PDS, moved to PDS/$$$#DATE
+2025-04-13 17:44:01.601941 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE233.PDS, moved to PDS/$$$DOC
+2025-04-13 17:44:01.601985 - Found @FILE233.txt (text/plain) in CBT.V508.FILE233.PDS, moved to PDS/@FILE233
+2025-04-13 17:44:01.602033 - Found GBHABEND.txt (text/plain) in CBT.V508.FILE233.PDS, moved to PDS/GBHABEND
